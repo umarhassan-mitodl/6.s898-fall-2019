@@ -1,0 +1,33 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 9e304a28-de44-0445-be2f-a55eff8769b1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 61ddd24b-d30a-72ec-f5ed-f83c301b2845
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: dd8b3712-6d2e-f856-d194-0c171419447c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: cf8eacd3-dee2-ea69-9a45-20f36f669f05
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 40
+- identifier: 2b092b03-b8c8-3e9b-de21-d169b18debe5
+  name: Project Ideas
+  pageRef: /pages/projects/project-ideas
+  parent: cf8eacd3-dee2-ea69-9a45-20f36f669f05
+  weight: 50
+- identifier: 43075e83-fe65-92ae-ff19-2f3f27c90086
+  name: Student Projects
+  pageRef: /pages/projects/student-projects
+  parent: cf8eacd3-dee2-ea69-9a45-20f36f669f05
+  weight: 60
+- identifier: 654935af-9739-5d18-c137-426a1ca94d16
+  name: Additional Resources
+  pageRef: /pages/additional-resources
+  weight: 70

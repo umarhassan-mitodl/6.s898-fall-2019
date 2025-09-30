@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2019",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ]
+  ],
+  "legacy_uid": "bab8b49a-7992-6695-8254-f8431c630147",
+  "instructors": {
+    "content": [
+      "4bd885ba-75e1-10e9-f75f-124e2da66800",
+      "734cbd71-7a77-6aa2-1623-754918b41ded",
+      "a6e526cd-bd4e-23c3-79c4-08e53fa35c4a",
+      "5e06cfd6-5776-eea9-e657-0c4df7732089"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a683d929-b773-35ed-83e3-baf8a1492a9f",
+    "website": "6-s898-climate-change-seminar-fall-2019"
+  },
+  "course_title": "Climate Change Seminar",
+  "hide_download": true,
+  "course_description": "This course provides a broad overview of issues related to climate change, with an emphasis on those aspects most relevant to computer scientists. Topics include climate science, climate models and simulations, decision-making under uncertainty, economics, mitigation strategies, adaptation strategies, geoengineering, policy-making, messaging, and politics.The course will culminate in a presentation of a research project which might include a paper, a blog, software etc.\n",
+  "department_numbers": [
+    "6",
+    "12"
+  ],
+  "extra_course_numbers": "12.S992",
+  "primary_course_number": "6.S898",
+  "course_image_thumbnail": {
+    "content": "863b7616-5e23-798b-c150-d9cbd876a362",
+    "website": "6-s898-climate-change-seminar-fall-2019"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "5af5f74a-9225-4dcc-8976-b275dc64cae8",
+  "site_short_id": "6.s898-fall-2019",
+  "site_url_path": "courses/6-s898-climate-change-seminar-fall-2019",
+  "title": "Course Metadata"
+}
