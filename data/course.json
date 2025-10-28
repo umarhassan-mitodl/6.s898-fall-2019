@@ -31,7 +31,6 @@
     "website": "6-s898-climate-change-seminar-fall-2019"
   },
   "course_title": "Climate Change Seminar",
-  "hide_download": true,
   "course_description": "This course provides a broad overview of issues related to climate change, with an emphasis on those aspects most relevant to computer scientists. Topics include climate science, climate models and simulations, decision-making under uncertainty, economics, mitigation strategies, adaptation strategies, geoengineering, policy-making, messaging, and politics.The course will culminate in a presentation of a research project which might include a paper, a blog, software etc.\n",
   "department_numbers": [
     "6",
@@ -43,7 +42,6 @@
     "content": "863b7616-5e23-798b-c150-d9cbd876a362",
     "website": "6-s898-climate-change-seminar-fall-2019"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples"
   ],

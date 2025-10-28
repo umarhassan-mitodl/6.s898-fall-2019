@@ -2,8 +2,6 @@
 content_type: page
 description: Syllabus for 6.S898 Climate Change Seminar including course description
   and grading policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +23,7 @@ Course Description
 
 This course provides a broad overview of issues related to climate change, with an emphasis on those aspects most relevant to computer scientists. Topics include climate science, climate models and simulations, decision-making under uncertainty, economics, mitigation strategies, adaptation strategies, geoengineering, policy-making, messaging, and politics. This course includes reading and discussion of recent publications and attending guest lectures. The course includes project formulation, culminating in a presentation of a research project which might include a paper, a blog, software etc.
 
-More information is available on the [course's public GitHub page](https://github.com/ron-rivest/MIT-6.S898-climate-change).
+More information is available on the {{% resource_link "ab098768-d4a2-4444-9de5-31682901494e" "course's public GitHub page" %}}.
 
 Grading Policy
 --------------

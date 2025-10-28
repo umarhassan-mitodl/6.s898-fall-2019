@@ -2,8 +2,6 @@
 content_type: page
 description: 'This page contains information about the final project for 6.S898 Climate
   Change Seminar. '
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

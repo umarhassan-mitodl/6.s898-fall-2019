@@ -14,7 +14,7 @@ uid: 2b092b03-b8c8-3e9b-de21-d169b18debe5
 The following are a list of some potential projects (feel free to choose one of these or develop your own):
 
 *   Public awareness (anything that helps people realize there is a real urgent problem and concrete solutions)
-    *   Compose a song for the _[Chorallaries of MIT](http://web.mit.edu/choral/www/index.html)_ and get them to sing it.
+    *   Compose a song for the _{{% resource_link "b4264627-7fa3-4f06-b2f5-3004be481647" "Chorallaries of MIT" %}}_ and get them to sing it.
     *   Create a sculpture of Earth that showcases regional impacts of climate change (e.g. for display on MIT's campus)
 *   Climate science
     *   Simulate the climate impacts of the entire Amazon Rainforest burning down over the next 20 years (probably publishable)
@@ -40,7 +40,7 @@ The following are a list of some potential projects (feel free to choose one of 
     *   Write an Alexa app that can convert between behaviors (e.g. flight from SFO to BOS) into carbon emissions (e.g. in tons of CO2 emitted or added concentration of CO2 in ppm)
     *   Develop a high-level Julia wrapper for a climate model (or other climate-related software)
 *   Machine Learning
-    *   See this [Twitter thread](https://twitter.com/raspstephan/status/1169735953419821056) summarizing a recent workshop on Machine Learning in Climate
+    *   See this {{% resource_link "b8376478-a392-4494-b917-00f6f0f34944" "Twitter thread" %}} summarizing a recent workshop on Machine Learning in Climate
 *   Political action
     *   Develop and carry out an action plan for a local grassroots climate / environmental organization
     *   Develop a campaign plan focused on addressing climate change for a politician (or run for public office yourself!)
